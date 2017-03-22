@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474032261 source:/home/redproxy/Área de Trabalho/Sistemas Inteligentes/T1/BestChoice/main.c
+	"header.h"
+
+1474032245 /home/redproxy/Área de Trabalho/Sistemas Inteligentes/T1/BestChoice/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1474032224 source:/home/redproxy/Área de Trabalho/Sistemas Inteligentes/T1/BestChoice/funcoes.c
+	"header.h"
+
